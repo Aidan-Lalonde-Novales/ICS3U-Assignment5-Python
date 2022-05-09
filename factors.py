@@ -2,7 +2,7 @@
 
 # Created by Aidan Lalonde-Novales
 # Created May 2022
-# This program shows the factors of an inputed number.
+# This program shows the factors of an inputted number.
 
 
 def main():
